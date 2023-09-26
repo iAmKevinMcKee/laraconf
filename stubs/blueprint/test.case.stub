@@ -1,0 +1,7 @@
+    /**
+     * @test
+     */
+    public function {{ method }}(): void
+    {
+        {{ body }}
+    }
